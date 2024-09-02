@@ -1,5 +1,3 @@
-**Atividade**
-
 `Transforme o código que esta em paradigma Estruturado para o paradigma Orientado Objeto`
 ---
 1. **Classe `TorreDeHanoi`**: Criei uma classe `TorreDeHanoi` que encapsula toda a lógica da resolução da Torre de Hanoi.
